@@ -22,7 +22,7 @@ J‑Seth Productions is not liable for any damages arising from the use, misuse,
 ---
 
 ## 1. Introduction
-SETHOPL OS is committed to protecting the privacy of creators, businesses, and fans worldwide. This Privacy Policy explains how we collect, use, store, and protect personal information in compliance with global data protection laws, including but not limited to the **GDPR (EU/UK)**, **CCPA/CPRA (California, USA)**, **LGPD (Brazil)**, and **PIPEDA (Canada)**.
+J Seth Productions is committed to protecting the privacy of creators, businesses, and fans worldwide. This Privacy Policy explains how we collect, use, store, and protect personal information in compliance with global data protection laws, including but not limited to the **GDPR (EU/UK)**, **CCPA/CPRA (California, USA)**, **LGPD (Brazil)**, and **PIPEDA (Canada)**.
 
 ---
 
@@ -82,7 +82,7 @@ Depending on your location, you may have the right to:
 
 ## 8. Exercising Your Rights
 To exercise your rights, contact us at:  
-📧 **privacy@jsethproductions.com** (replace with your actual contact).  
+📧 **platinumjseth@jsethproductions.com**   
 We will respond within the timeframes required by applicable law (e.g., 30 days under GDPR).
 
 ---
@@ -101,7 +101,7 @@ We may update this Privacy Policy from time to time. Updates will be posted in t
 For questions or concerns about this Privacy Policy, please contact:  
 **Joshua Seth Anderson (Platinum J)**  
 Founder & Owner, J‑Seth Productions / Creator of SETHOPL OS  
-📧 privacy@jsethproductions.com
+📧 platinumjseth@jsethproductions.com
 
 
 
