@@ -104,3 +104,5 @@ It unifies beats, merch, venues, publishing, live events, contracts, and press a
 git clone https://github.com/your-username/sethoplos.git
 cd sethoplos
 .\orchestrator.ps1
+## License
+See the [LICENSE](./LICENSE) file for full terms.
